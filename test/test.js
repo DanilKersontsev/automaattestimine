@@ -1,5 +1,5 @@
 const { expect } = require('chai');
-const matemaatilisedArvutused = require('../kood'); // Asendage see õige faili asukohaga
+const matemaatilisedArvutused = require('../kood');
 
 describe('matemaatilisedArvutused', () => {
     it('arvutab summa õigesti', () => {
